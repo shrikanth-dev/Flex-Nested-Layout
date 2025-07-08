@@ -26,13 +26,12 @@ A responsive HTML + CSS Flexbox project showcasing nested boxes with color diffe
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
+![](nested_layout.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/shrikanth-dev/Flex-Nested-Layout)
+- Live Site URL: [live site URL](https://shrikanth-dev.github.io/Flex-Nested-Layout/)
 
 ### Built with
 
